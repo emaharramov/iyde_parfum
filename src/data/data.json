@@ -1,0 +1,981 @@
+{
+  "data": {
+    "en": [
+      {
+        "id": 0,
+        "name": "Acqua di Parma",
+        "collection": "Khan Perfume",
+        "category": "woman",
+        "date": "2012",
+        "brand": "Acqua di Parma Magnolia Nobile",
+        "season": "Winter/Fall",
+        "dayNight": "Day",
+        "group": ["Rose", "Citrus", "Wooden", "Aromatic"],
+        "img": "./../public/img/1.jpg",
+        "price": {
+          "15ml": 23,
+          "30ml": 47,
+          "50ml": 57,
+          "100ml": 85
+        },
+        "like_group": "popular"
+      },
+      {
+        "id": 1,
+        "name": "Aromel Privacy Man",
+        "collection": "Iyde Perfume",
+        "category": "man",
+        "date": "2022",
+        "brand": "Aromel",
+        "season": "Winter/Fall",
+        "dayNight": "Day",
+        "group": ["Jasmine", "Peach", "Green notes", "Geranium"],
+        "img": "./../public/img/aromel.jpg",
+        "price": {
+          "15ml": 23,
+          "30ml": 37,
+          "50ml": 60,
+          "100ml": 83
+        },
+        "like_group": "new"
+      },
+      {
+        "id": 2,
+        "name": "Adidas Ice Dive",
+        "collection": "Iyde Perfume",
+        "category": "man",
+        "date": "2012",
+        "brand": "Adidas",
+        "season": "Winter/Fall",
+        "dayNight": "Day",
+        "group": ["Patchouli", "Sandal", "Geranium"],
+        "img": "./../public/img/adidas.jpg",
+        "price": {
+          "15ml": 23,
+          "30ml": 37,
+          "50ml": 60,
+          "100ml": 83
+        },
+        "like_group": "popular"
+      },
+      {
+        "id": 3,
+        "name": "Baldessarini Ambre",
+        "collection": "Iyde Perfume",
+        "category": "man",
+        "date": "2012",
+        "brand": "Baldessarini",
+        "season": "Winter/Fall",
+        "dayNight": "Day",
+        "group": ["Vanilla", "Ambergris", "Oak", "Labdanum"],
+        "img": "./../public/img/ambre.jpg",
+        "price": {
+          "15ml": 45,
+          "30ml": 70,
+          "50ml": 100,
+          "100ml": 123
+        },
+        "like_group": "popular"
+      },
+      {
+        "id": 4,
+        "name": "Bentley for Men",
+        "collection": "Iyde Perfume",
+        "category": "woman",
+        "date": "2022",
+        "brand": "Bentley",
+        "season": "Winter/Fall",
+        "dayNight": "Day",
+        "group": ["Spicy", "Oriental"],
+        "img": "./../public/img/bently.jpg",
+        "price": {
+          "15ml": 30,
+          "30ml": 40,
+          "50ml": 50,
+          "100ml": 60
+        },
+        "like_group": "new"
+      },
+      {
+        "id": 5,
+        "name": "Yeddi Gözəl Chameleon",
+        "collection": "Yeddi Gözəl",
+        "category": "unisex",
+        "date": "2022",
+        "brand": "Iyde Perfume",
+        "season": "Winter/Fall",
+        "dayNight": "Day",
+        "group": ["Sweet", "Citrus"],
+        "img": "./../public/img/chamelon.jpg",
+        "price": {
+          "15ml": 30,
+          "30ml": 40,
+          "50ml": 50,
+          "100ml": 60
+        },
+        "like_group": "new"
+      },
+      {
+        "id": 6,
+        "name": "Yeddi Gözəl Hakari Wood",
+        "collection": "Yeddi Gözəl",
+        "category": "man",
+        "date": "2022",
+        "brand": "Iyde Perfume",
+        "season": "Winter/Fall",
+        "dayNight": "Day",
+        "group": ["Oriental", "Wooden"],
+        "img": "./../public/img/hakari.jpg",
+        "price": {
+          "15ml": 30,
+          "30ml": 40,
+          "50ml": 50,
+          "100ml": 60
+        },
+        "like_group": "popular"
+      },
+      {
+        "id": 7,
+        "name": "Khan Perfume Be My Sweety",
+        "collection": "Khan Perfume",
+        "category": "woman",
+        "date": "2022",
+        "brand": "Khan Perfume",
+        "season": "Winter/Fall",
+        "dayNight": "Day",
+        "group": ["Fruit", "Floral"],
+        "img": "./../public/img/sweet.jpg",
+        "price": {
+          "15ml": 100,
+          "30ml": 110,
+          "50ml": 120,
+          "100ml": 130
+        },
+        "like_group": "new"
+      },
+      {
+        "id": 8,
+        "name": "Love Amour",
+        "collection": "Love",
+        "category": "woman",
+        "date": "2022",
+        "brand": "Iyde Perfume",
+        "season": "Winter/Fall",
+        "dayNight": "Day",
+        "group": ["Freesia", "Strawberry"],
+        "img": "./../public/img/love.png",
+        "price": {
+          "15ml": 30,
+          "30ml": 40,
+          "50ml": 50,
+          "100ml": 60
+        },
+        "like_group": "popular"
+      },
+
+      {
+        "id": 9,
+        "name": "Khan",
+        "collection": "Iyde Perfume",
+        "category": "man",
+        "date": "2023",
+        "brand": "Ottoman",
+        "season": "Winter/Autumn",
+        "dayNight": "Day",
+        "group": ["Jasmine", "Peach", "Citrus", "Amber"],
+        "img": "./../public/img/ottoman.png",
+        "price": {
+          "15ml": 35,
+          "30ml": 50,
+          "50ml": 90,
+          "100ml": 120
+        },
+        "like_group": "best_seller"
+      },
+      {
+        "id": 10,
+        "name": "Yeddi Gözəl",
+        "collection": "Iyde Perfume",
+        "category": "woman",
+        "date": "2023",
+        "brand": "Iyde Royal",
+        "season": "Spring/Summer",
+        "dayNight": "Evening",
+        "group": ["Rose", "Mandarin", "Patchouli", "Sandalwood"],
+        "img": "./../public/img/iyderoya.png",
+        "price": {
+          "15ml": 40,
+          "30ml": 75,
+          "50ml": 130,
+          "100ml": 180
+        },
+        "like_group": "exclusive"
+      },
+      {
+        "id": 11,
+        "name": "Xəmsə",
+        "collection": "Iyde Perfume",
+        "category": "unisex",
+        "date": "2023",
+        "brand": "Leyla Majnun",
+        "season": "Winter",
+        "dayNight": "Night",
+        "group": ["Vanilla", "Geranium", "Cedar", "Bergamot"],
+        "img": "./../public/img/iydeleylamajnun.png",
+        "price": {
+          "15ml": 50,
+          "30ml": 90,
+          "50ml": 140,
+          "100ml": 210
+        },
+        "like_group": "new"
+      },
+      {
+        "id": 12,
+        "name": "Qarabağ",
+        "collection": "Iyde Perfume",
+        "category": "man",
+        "date": "2023",
+        "brand": "Iyde Qarabağ",
+        "season": "Autumn",
+        "dayNight": "Day",
+        "group": ["Leather", "Musk", "Violet", "Cinnamon"],
+        "img": "./../public/img/iydeqarabag.png",
+        "price": {
+          "15ml": 30,
+          "30ml": 65,
+          "50ml": 100,
+          "100ml": 160
+        },
+        "like_group": "classic"
+      },
+      {
+        "id": 13,
+        "name": "Sport",
+        "collection": "Iyde Perfume",
+        "category": "man",
+        "date": "2022",
+        "brand": "Iyde Sport",
+        "season": "Summer",
+        "dayNight": "Day",
+        "group": ["Mint", "Lime", "Orange", "Ginger"],
+        "img": "./../public/img/iydesport.png",
+        "price": {
+          "15ml": 40,
+          "30ml": 80,
+          "50ml": 110,
+          "100ml": 170
+        },
+        "like_group": "popular"
+      },
+      {
+        "id": 14,
+        "name": "Baku",
+        "collection": "Iyde Perfume",
+        "category": "unisex",
+        "date": "2022",
+        "brand": "Iyde Baku",
+        "season": "Spring/Autumn",
+        "dayNight": "Evening",
+        "group": ["Citrus", "Grapefruit", "Musk", "Lily"],
+        "img": "./../public/img/iydebaku.png",
+        "price": {
+          "15ml": 60,
+          "30ml": 100,
+          "50ml": 140,
+          "100ml": 220
+        },
+        "like_group": "luxury"
+      },
+      {
+        "id": 15,
+        "name": "Baldini",
+        "collection": "Iyde Perfume",
+        "category": "woman",
+        "date": "2023",
+        "brand": "Baldini",
+        "season": "Summer/Spring",
+        "dayNight": "Night",
+        "group": ["Violet", "Vanilla", "Orange", "Musk"],
+        "img": "./../public/img/57_baldini-blaack.png",
+        "price": {
+          "15ml": 70,
+          "30ml": 120,
+          "50ml": 180,
+          "100ml": 250
+        },
+        "like_group": "premium"
+      },
+      {
+        "id": 16,
+        "name": "Day & Night",
+        "collection": "Iyde Perfume",
+        "category": "unisex",
+        "date": "2023",
+        "brand": "Morning Star",
+        "season": "Autumn",
+        "dayNight": "Day & Night",
+        "group": ["Bergamot", "Lemon", "Rose", "Patchouli"],
+        "img": "./../public/img/iydemorningstar.png",
+        "price": {
+          "15ml": 50,
+          "30ml": 90,
+          "50ml": 150,
+          "100ml": 200
+        },
+        "like_group": "signature"
+      }
+    ],
+
+    "ru": [
+      {
+        "id": 0,
+        "name": "Acqua di Parma",
+        "collection": "Khan Perfume",
+        "category": "child",
+        "date": "2012",
+        "brand": "Acqua di Parma Magnolia Nobile",
+        "season": "Зима/Осень",
+        "dayNight": "День",
+        "group": ["Роза", "Цитрус", "Деревянный", "Ароматический"],
+        "img": "./../public/img/1.jpg",
+        "price": {
+          "15ml": 23,
+          "30ml": 47,
+          "50ml": 57,
+          "100ml": 85
+        },
+        "like_group": "popular"
+      },
+      {
+        "id": 1,
+        "name": "Aromel Privacy Man",
+        "collection": "Iyde Perfume",
+        "category": "man",
+        "date": "2022",
+        "brand": "Aromel",
+        "season": "Зима/Осень",
+        "dayNight": "День",
+        "group": ["Жасмин", "Персик", "Зеленые ноты", "Герань"],
+        "img": "./../public/img/aromel.jpg",
+        "price": {
+          "15ml": 23,
+          "30ml": 37,
+          "50ml": 60,
+          "100ml": 83
+        },
+        "like_group": "new"
+      },
+      {
+        "id": 2,
+        "name": "Adidas Ice Dive",
+        "collection": "Iyde Perfume",
+        "category": "man",
+        "date": "2012",
+        "brand": "Adidas",
+        "season": "Зима/Осень",
+        "dayNight": "День",
+        "group": ["Пачули", "Сандал", "Герань"],
+        "img": "./../public/img/adidas.jpg",
+        "price": {
+          "15ml": 23,
+          "30ml": 37,
+          "50ml": 60,
+          "100ml": 83
+        },
+        "like_group": "popular"
+      },
+      {
+        "id": 3,
+        "name": "Baldessarini Ambre",
+        "collection": "Iyde Perfume",
+        "category": "man",
+        "date": "2012",
+        "brand": "Baldessarini",
+        "season": "Зима/Осень",
+        "dayNight": "День",
+        "group": ["Ваниль", "Амбра", "Дуб", "Лабданум"],
+        "img": "./../public/img/ambre.jpg",
+        "price": {
+          "15ml": 45,
+          "30ml": 70,
+          "50ml": 100,
+          "100ml": 123
+        },
+        "like_group": "popular"
+      },
+      {
+        "id": 4,
+        "name": "Bentley for Men",
+        "collection": "Iyde Perfume",
+        "category": "woman",
+        "date": "2022",
+        "brand": "Bentley",
+        "season": "Зима/Осень",
+        "dayNight": "День",
+        "group": ["Пряный", "Восточный"],
+        "img": "./../public/img/bently.jpg",
+        "price": {
+          "15ml": 30,
+          "30ml": 40,
+          "50ml": 50,
+          "100ml": 60
+        },
+        "like_group": "new"
+      },
+      {
+        "id": 5,
+        "name": "Yeddi Gözəl Chameleon",
+        "collection": "Yeddi Gözəl",
+        "category": "unisex",
+        "date": "2022",
+        "brand": "Iyde Perfume",
+        "season": "Зима/Осень",
+        "dayNight": "День",
+        "group": ["Сладкий", "Цитрус"],
+        "img": "./../public/img/chameleon.jpg",
+        "price": {
+          "15ml": 30,
+          "30ml": 40,
+          "50ml": 50,
+          "100ml": 60
+        },
+        "like_group": "new"
+      },
+      {
+        "id": 6,
+        "name": "Yeddi Gözəl Hakari Wood",
+        "collection": "Yeddi Gözəl",
+        "category": "man",
+        "date": "2022",
+        "brand": "Iyde Perfume",
+        "season": "Зима/Осень",
+        "dayNight": "День",
+        "group": ["Восточный", "Деревянный"],
+        "img": "./../public/img/hakari.jpg",
+        "price": {
+          "15ml": 30,
+          "30ml": 40,
+          "50ml": 50,
+          "100ml": 60
+        },
+        "like_group": "popular"
+      },
+      {
+        "id": 7,
+        "name": "Khan Perfume Be My Sweety",
+        "collection": "Khan Perfume",
+        "category": "woman",
+        "date": "2022",
+        "brand": "Khan Perfume",
+        "season": "Зима/Осень",
+        "dayNight": "День",
+        "group": ["Фрукт", "Цветочный"],
+        "img": "./../public/img/sweet.png",
+        "price": {
+          "15ml": 100,
+          "30ml": 110,
+          "50ml": 120,
+          "100ml": 130
+        },
+        "like_group": "new"
+      },
+      {
+        "id": 8,
+        "name": "Love Amour",
+        "collection": "Love",
+        "category": "woman",
+        "date": "2022",
+        "brand": "Iyde Perfume",
+        "season": "Зима/Осень",
+        "dayNight": "День",
+        "group": ["Фрезия", "Клубника"],
+        "img": "./../public/img/love.jpg",
+        "price": {
+          "15ml": 30,
+          "30ml": 40,
+          "50ml": 50,
+          "100ml": 60
+        },
+        "like_group": "popular"
+      },
+      {
+        "id": 9,
+        "name": "Khan",
+        "collection": "Iyde Perfume",
+        "category": "man",
+        "date": "2023",
+        "brand": "Ottoman",
+        "season": "Winter/Autumn",
+        "dayNight": "Day",
+        "group": ["Jasmine", "Peach", "Citrus", "Amber"],
+        "img": "./../public/img/ottoman.png",
+        "price": {
+          "15ml": 35,
+          "30ml": 50,
+          "50ml": 90,
+          "100ml": 120
+        },
+        "like_group": "best_seller"
+      },
+      {
+        "id": 10,
+        "name": "Yeddi Gözəl",
+        "collection": "Iyde Perfume",
+        "category": "woman",
+        "date": "2023",
+        "brand": "Iyde Royal",
+        "season": "Spring/Summer",
+        "dayNight": "Evening",
+        "group": ["Rose", "Mandarin", "Patchouli", "Sandalwood"],
+        "img": "./../public/img/iyderoya.png",
+        "price": {
+          "15ml": 40,
+          "30ml": 75,
+          "50ml": 130,
+          "100ml": 180
+        },
+        "like_group": "exclusive"
+      },
+      {
+        "id": 11,
+        "name": "Xəmsə",
+        "collection": "Iyde Perfume",
+        "category": "unisex",
+        "date": "2023",
+        "brand": "Leyla Majnun",
+        "season": "Winter",
+        "dayNight": "Night",
+        "group": ["Vanilla", "Geranium", "Cedar", "Bergamot"],
+        "img": "./../public/img/iydeleylamajnun.png",
+        "price": {
+          "15ml": 50,
+          "30ml": 90,
+          "50ml": 140,
+          "100ml": 210
+        },
+        "like_group": "new"
+      },
+      {
+        "id": 12,
+        "name": "Qarabağ",
+        "collection": "Iyde Perfume",
+        "category": "man",
+        "date": "2023",
+        "brand": "Iyde Qarabağ",
+        "season": "Autumn",
+        "dayNight": "Day",
+        "group": ["Leather", "Musk", "Violet", "Cinnamon"],
+        "img": "./../public/img/iydeqarabag.png",
+        "price": {
+          "15ml": 30,
+          "30ml": 65,
+          "50ml": 100,
+          "100ml": 160
+        },
+        "like_group": "classic"
+      },
+      {
+        "id": 13,
+        "name": "Sport",
+        "collection": "Iyde Perfume",
+        "category": "man",
+        "date": "2022",
+        "brand": "Iyde Sport",
+        "season": "Summer",
+        "dayNight": "Day",
+        "group": ["Mint", "Lime", "Orange", "Ginger"],
+        "img": "./../public/img/iydesport.png",
+        "price": {
+          "15ml": 40,
+          "30ml": 80,
+          "50ml": 110,
+          "100ml": 170
+        },
+        "like_group": "popular"
+      },
+      {
+        "id": 14,
+        "name": "Baku",
+        "collection": "Iyde Perfume",
+        "category": "unisex",
+        "date": "2022",
+        "brand": "Iyde Baku",
+        "season": "Spring/Autumn",
+        "dayNight": "Evening",
+        "group": ["Citrus", "Grapefruit", "Musk", "Lily"],
+        "img": "./../public/img/iydebaku.png",
+        "price": {
+          "15ml": 60,
+          "30ml": 100,
+          "50ml": 140,
+          "100ml": 220
+        },
+        "like_group": "luxury"
+      },
+      {
+        "id": 15,
+        "name": "Baldini",
+        "collection": "Iyde Perfume",
+        "category": "woman",
+        "date": "2023",
+        "brand": "Baldini",
+        "season": "Summer/Spring",
+        "dayNight": "Night",
+        "group": ["Violet", "Vanilla", "Orange", "Musk"],
+        "img": "./../public/img/57_baldini-blaack.png",
+        "price": {
+          "15ml": 70,
+          "30ml": 120,
+          "50ml": 180,
+          "100ml": 250
+        },
+        "like_group": "premium"
+      },
+      {
+        "id": 16,
+        "name": "Day & Night",
+        "collection": "Iyde Perfume",
+        "category": "unisex",
+        "date": "2023",
+        "brand": "Morning Star",
+        "season": "Autumn",
+        "dayNight": "Day & Night",
+        "group": ["Bergamot", "Lemon", "Rose", "Patchouli"],
+        "img": "./../public/img/iydemorningstar.png",
+        "price": {
+          "15ml": 50,
+          "30ml": 90,
+          "50ml": 150,
+          "100ml": 200
+        },
+        "like_group": "signature"
+      }
+    ],
+    "az": [
+      {
+        "id": 0,
+        "name": "Acqua di Parma",
+        "collection": "Khan Ətri",
+        "category": "qadın",
+        "date": "2012",
+        "brand": "Acqua di Parma Magnolia Nobile",
+        "season": "Qış/Payız",
+        "dayNight": "Gündüz",
+        "group": ["Gül", "Sitrus", "Taxta", "Aromatik"],
+        "img": "./../public/img/1.jpg",
+        "price": {
+          "15ml": 23,
+          "30ml": 47,
+          "50ml": 57,
+          "100ml": 85
+        },
+        "like_group": "popular"
+      },
+      {
+        "id": 1,
+        "name": "Aromel Privacy Man",
+        "collection": "Iyde Ətri",
+        "category": "kişi",
+        "date": "2022",
+        "brand": "Aromel",
+        "season": "Qış/Payız",
+        "dayNight": "Gündüz",
+        "group": ["Yasəmən", "Şaftalı", "Yaşıl Qeydlər", "Geranium"],
+        "img": "./../public/img/aromel.jpg",
+        "price": {
+          "15ml": 23,
+          "30ml": 37,
+          "50ml": 60,
+          "100ml": 83
+        },
+        "like_group": "new"
+      },
+      {
+        "id": 2,
+        "name": "Adidas Ice Dive",
+        "collection": "Iyde Ətri",
+        "category": "kişi",
+        "date": "2012",
+        "brand": "Adidas",
+        "season": "Qış/Payız",
+        "dayNight": "Gündüz",
+        "group": ["Paçuli", "Sandal", "Geranium"],
+        "img": "./../public/img/adidas.jpg",
+        "price": {
+          "15ml": 23,
+          "30ml": 37,
+          "50ml": 60,
+          "100ml": 83
+        },
+        "like_group": "popular"
+      },
+      {
+        "id": 3,
+        "name": "Baldessarini Ambre",
+        "collection": "Iyde Ətri",
+        "category": "kişi",
+        "date": "2012",
+        "brand": "Baldessarini",
+        "season": "Qış/Payız",
+        "dayNight": "Gündüz",
+        "group": ["Vanil", "Ambergris", "Palıd", "Labdanum"],
+        "img": "./../public/img/ambre.jpg",
+        "price": {
+          "15ml": 45,
+          "30ml": 70,
+          "50ml": 100,
+          "100ml": 123
+        },
+        "like_group": "popular"
+      },
+      {
+        "id": 4,
+        "name": "Bentley for Men",
+        "collection": "Iyde Ətri",
+        "category": "qadın",
+        "date": "2022",
+        "brand": "Bentley",
+        "season": "Qış/Payız",
+        "dayNight": "Gündüz",
+        "group": ["Ədviyyat", "Şərq"],
+        "img": "./../public/img/bently.jpg",
+        "price": {
+          "15ml": 30,
+          "30ml": 40,
+          "50ml": 50,
+          "100ml": 60
+        },
+        "like_group": "new"
+      },
+      {
+        "id": 5,
+        "name": "Yeddi Gözəl Chameleon",
+        "collection": "Yeddi Gözəl",
+        "category": "unisex",
+        "date": "2022",
+        "brand": "Iyde Ətri",
+        "season": "Qış/Payız",
+        "dayNight": "Gündüz",
+        "group": ["Şirin", "Sitrus"],
+        "img": "./../public/img/chameleon.jpg",
+        "price": {
+          "15ml": 30,
+          "30ml": 40,
+          "50ml": 50,
+          "100ml": 60
+        },
+        "like_group": "new"
+      },
+      {
+        "id": 6,
+        "name": "Yeddi Gözəl Hakari Wood",
+        "collection": "Yeddi Gözəl",
+        "category": "kişi",
+        "date": "2022",
+        "brand": "Iyde Ətri",
+        "season": "Qış/Payız",
+        "dayNight": "Gündüz",
+        "group": ["Şərq", "Taxta"],
+        "img": "./../public/img/hakari.jpg",
+        "price": {
+          "15ml": 30,
+          "30ml": 40,
+          "50ml": 50,
+          "100ml": 60
+        },
+        "like_group": "popular"
+      },
+      {
+        "id": 7,
+        "name": "Khan Ətri Be My Sweety",
+        "collection": "Khan Ətri",
+        "category": "qadın",
+        "date": "2022",
+        "brand": "Khan Ətri",
+        "season": "Qış/Payız",
+        "dayNight": "Gündüz",
+        "group": ["Meyvə", "Çiçək"],
+        "img": "./../public/img/sweet.png",
+        "price": {
+          "15ml": 100,
+          "30ml": 110,
+          "50ml": 120,
+          "100ml": 130
+        },
+        "like_group": "new"
+      },
+      {
+        "id": 8,
+        "name": "Love Amour",
+        "collection": "Love",
+        "category": "qadın",
+        "date": "2022",
+        "brand": "Iyde Ətri",
+        "season": "Qış/Payız",
+        "dayNight": "Gündüz",
+        "group": ["Frezia", "Çiyələk"],
+        "img": "./../public/img/love.jpg",
+        "price": {
+          "15ml": 30,
+          "30ml": 40,
+          "50ml": 50,
+          "100ml": 60
+        },
+        "like_group": "popular"
+      },
+      {
+        "id": 9,
+        "name": "Khan",
+        "collection": "Iyde Perfume",
+        "category": "man",
+        "date": "2023",
+        "brand": "Ottoman",
+        "season": "Winter/Autumn",
+        "dayNight": "Day",
+        "group": ["Jasmine", "Peach", "Citrus", "Amber"],
+        "img": "./../public/img/ottoman.png",
+        "price": {
+          "15ml": 35,
+          "30ml": 50,
+          "50ml": 90,
+          "100ml": 120
+        },
+        "like_group": "best_seller"
+      },
+      {
+        "id": 10,
+        "name": "Yeddi Gözəl",
+        "collection": "Iyde Perfume",
+        "category": "woman",
+        "date": "2023",
+        "brand": "Iyde Royal",
+        "season": "Spring/Summer",
+        "dayNight": "Evening",
+        "group": ["Rose", "Mandarin", "Patchouli", "Sandalwood"],
+        "img": "./../public/img/iyderoya.png",
+        "price": {
+          "15ml": 40,
+          "30ml": 75,
+          "50ml": 130,
+          "100ml": 180
+        },
+        "like_group": "exclusive"
+      },
+      {
+        "id": 11,
+        "name": "Xəmsə",
+        "collection": "Iyde Perfume",
+        "category": "unisex",
+        "date": "2023",
+        "brand": "Leyla Majnun",
+        "season": "Winter",
+        "dayNight": "Night",
+        "group": ["Vanilla", "Geranium", "Cedar", "Bergamot"],
+        "img": "./../public/img/iydeleylamajnun.png",
+        "price": {
+          "15ml": 50,
+          "30ml": 90,
+          "50ml": 140,
+          "100ml": 210
+        },
+        "like_group": "new"
+      },
+      {
+        "id": 12,
+        "name": "Qarabağ",
+        "collection": "Iyde Perfume",
+        "category": "man",
+        "date": "2023",
+        "brand": "Iyde Qarabağ",
+        "season": "Autumn",
+        "dayNight": "Day",
+        "group": ["Leather", "Musk", "Violet", "Cinnamon"],
+        "img": "./../public/img/iydeqarabag.png",
+        "price": {
+          "15ml": 30,
+          "30ml": 65,
+          "50ml": 100,
+          "100ml": 160
+        },
+        "like_group": "classic"
+      },
+      {
+        "id": 13,
+        "name": "Sport",
+        "collection": "Iyde Perfume",
+        "category": "man",
+        "date": "2022",
+        "brand": "Iyde Sport",
+        "season": "Summer",
+        "dayNight": "Day",
+        "group": ["Mint", "Lime", "Orange", "Ginger"],
+        "img": "./../public/img/iydesport.png",
+        "price": {
+          "15ml": 40,
+          "30ml": 80,
+          "50ml": 110,
+          "100ml": 170
+        },
+        "like_group": "popular"
+      },
+      {
+        "id": 14,
+        "name": "Baku",
+        "collection": "Iyde Perfume",
+        "category": "unisex",
+        "date": "2022",
+        "brand": "Iyde Baku",
+        "season": "Spring/Autumn",
+        "dayNight": "Evening",
+        "group": ["Citrus", "Grapefruit", "Musk", "Lily"],
+        "img": "./../public/img/iydebaku.png",
+        "price": {
+          "15ml": 60,
+          "30ml": 100,
+          "50ml": 140,
+          "100ml": 220
+        },
+        "like_group": "luxury"
+      },
+      {
+        "id": 15,
+        "name": "Baldini",
+        "collection": "Iyde Perfume",
+        "category": "woman",
+        "date": "2023",
+        "brand": "Baldini",
+        "season": "Summer/Spring",
+        "dayNight": "Night",
+        "group": ["Violet", "Vanilla", "Orange", "Musk"],
+        "img": "./../public/img/57_baldini-blaack.png",
+        "price": {
+          "15ml": 70,
+          "30ml": 120,
+          "50ml": 180,
+          "100ml": 250
+        },
+        "like_group": "premium"
+      },
+      {
+        "id": 16,
+        "name": "Day & Night",
+        "collection": "Iyde Perfume",
+        "category": "unisex",
+        "date": "2023",
+        "brand": "Morning Star",
+        "season": "Autumn",
+        "dayNight": "Day & Night",
+        "group": ["Bergamot", "Lemon", "Rose", "Patchouli"],
+        "img": "./../public/img/iydemorningstar.png",
+        "price": {
+          "15ml": 50,
+          "30ml": 90,
+          "50ml": 150,
+          "100ml": 200
+        },
+        "like_group": "signature"
+      }
+    ]
+  }
+}

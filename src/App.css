@@ -1,0 +1,16 @@
+.hover_pink:hover > * {
+  transition: 0.3s;
+  color: #ff0852 !important;
+}
+.hover_show>button{
+    transition: .5s;
+}
+.hover_show img{
+    transition: .5s;
+}
+.hover_show:hover img{
+    scale: 1.07;
+}
+.hover_show:hover > button {
+  bottom: 10px;
+}
